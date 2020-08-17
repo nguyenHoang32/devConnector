@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "12.16.1",
+    "node": "12.16.x",
     "npm": "6.13.4"
   },
   "name": "react",
